@@ -1,1 +1,1 @@
-# 미니 홈페이지
+# Fillip's mini project for use git
