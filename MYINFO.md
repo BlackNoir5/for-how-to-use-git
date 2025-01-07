@@ -1,3 +1,3 @@
 # MYINFO page
-Habby : basketball
-MBTI : INFJ
+#### Habby : basketball
+#### MBTI : INFJ
