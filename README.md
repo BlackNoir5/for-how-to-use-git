@@ -7,11 +7,12 @@
 ## 목차
 
 
-- <a href="https://velog.io/@euisuk-chung/1.-%EA%B9%83Git%EC%9D%B4%EB%9E%80">Git이란?</a>
-- <a href="https://velog.io/@yeonjoo7/GIT%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4%EB%93%A4">Git 기본 명령어</a>
+- <a href="https://github.com/BlackNoir5/for-how-to-use-git/blob/main/README.md#git%EC%9D%B4%EB%9E%80">Git이란?</a>
+- <a href="https://github.com/BlackNoir5/for-how-to-use-git/blob/main/README.md#git-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4">Git 기본 명령어</a>
 - <a href="https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%B8%8C%EB%9E%9C%EC%B9%98%EC%99%80-Merge-%EC%9D%98-%EA%B8%B0%EC%B4%88">브랜치와 병합</a>
-- <a href="https://devyihyun.tistory.com/30">GitHub 사용</a>
+- <a href="https://github.com/BlackNoir5/for-how-to-use-git/blob/main/README.md#github-%EC%82%AC%EC%9A%A9">GitHub 사용</a>
 - <a href="https://velog.io/@jinuku/Git-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C">협업 가이드</a>
+- <a href="https://github.com/BlackNoir5/for-how-to-use-git/blob/main/README.md#github-%EC%82%AC%EC%9A%A9">markdown 사용</a>
 
 ## Git이란?
 
